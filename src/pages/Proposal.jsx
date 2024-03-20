@@ -40,7 +40,7 @@ const Proposal = ({ className = '' }) => {
 
     // effects
     useEffect(() => {
-        document.title = `${person} - Be My Valentine`;
+        document.title = `${person} - ILYSM Chikamso`;
     }, [person]);
 
     // preload images
